@@ -1,12 +1,12 @@
 {
     "inbounds": [
         {
-            "port": 8888,
+            "port": 8090,
             "protocol": "vmess",
             "settings": {
                 "clients": [
                     {
-                        "id": "c95ef1d4-f3ac-4586-96e9-234a37dda068"
+                        "id": "01947a19-d50f-40ad-a3e0-7d25081f82a7"
                     }
                 ]
             },
